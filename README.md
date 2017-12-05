@@ -4,8 +4,6 @@
 Bitcoin! The cryptocurrency that has taken the world by storm. I decided one very gay and tired night (December 4th) to create a dynamically generating and updating web page.
 It hosts information about Bitcoin and facts about what it's doing currentlly. It's kind of like a MadLibs but a little bit more complicated with JSON objects.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # Why?
 -------
 
