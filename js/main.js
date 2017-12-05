@@ -1,10 +1,6 @@
 var table = $('#table'); //The market val thing.
 var marketval = $('#market_val');
 
-function createTable() {
-
-}
-
 function update(first) {
     let now = new Date();
 
