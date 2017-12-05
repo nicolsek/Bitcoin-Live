@@ -48,17 +48,17 @@ function update(first) {
 
     }); //Response from conversion stuff.
 
-    var resp = $.getJSON("https://api.blockchain.info/stats", function(data) {
-        var json = resp.responseJSON;
+    // var resp = $.getJSON("https://api.blockchain.info/stats", function(data) {
+    //     var json = resp.responseJSON;
         
-        var mined = $('#mined'); //# of Bitcoin mined.
-        var revenue = $("#revenue"); //Amount of revenue in USD.
-        var usdval = $("#usdval");
-        var transaction = $("#transaction");
+    //     var mined = $('#mined'); //# of Bitcoin mined.
+    //     var revenue = $("#revenue"); //Amount of revenue in USD.
+    //     var usdval = $("#usdval");
+    //     var transaction = $("#transaction");
 
-        mined.text(json.n_btc_mined);
-        revenue.text(json.miners_revenue_usd);
-    }); //Response from stats;
+    //     mined.text(json.n_btc_mined);
+    //     revenue.text(json.miners_revenue_usd);
+    // }); //Response from stats;
 }
 
 
