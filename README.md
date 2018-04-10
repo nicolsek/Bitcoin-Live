@@ -1,4 +1,4 @@
-# [Bitcoin-Live](http://nicoletusek/me/Bitcoin-Live)
+# [Bitcoin-Live](https://nicolsek.github.io/Bitcoin-Live/)
 --------------
 
 Bitcoin! The cryptocurrency that has taken the world by storm. I decided one very gay and tired night (December 4th) to create a dynamically generating and updating web page.
